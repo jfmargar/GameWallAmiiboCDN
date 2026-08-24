@@ -1,4 +1,4 @@
-# gamewall-amiibo-assets
+# GameWallAmiiboCDN
 
 Imágenes de amiibo que consume GameWall, servidas por CDN a través de jsDelivr.
 
@@ -24,7 +24,7 @@ id 0438000103000502  ->  icon_04380001-03000502.webp
 Y la URL completa, fijando siempre un tag para que la caché sea inmutable:
 
 ```
-https://cdn.jsdelivr.net/gh/<usuario>/gamewall-amiibo-assets@<tag>/images/amiibo/icon_04380001-03000502.webp
+https://cdn.jsdelivr.net/gh/<usuario>/GameWallAmiiboCDN@<tag>/images/amiibo/icon_04380001-03000502.webp
 ```
 
 ## Publicar una versión
