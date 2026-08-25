@@ -8,7 +8,8 @@ subiendo imágenes nuevas y publicando un tag.
 ## Estructura
 
 ```
-images/amiibo/icon_{head}-{tail}.webp   948 imágenes, ~17 MB
+images/amiibo/icon_{head}-{tail}.webp            variante optimizada compatible con la app
+images/amiibo/high-res/icon_{head}-{tail}.png    PNG original sin recodificar
 manifest.json                           id de amiibo -> nombre de fichero
 ```
 
@@ -25,6 +26,12 @@ Y la URL completa, fijando siempre un tag para que la caché sea inmutable:
 
 ```
 https://cdn.jsdelivr.net/gh/<usuario>/GameWallAmiiboCDN@<tag>/images/amiibo/icon_04380001-03000502.webp
+```
+
+Para obtener la variante de alta resolución se conserva el mismo nombre y se añade `high-res/`:
+
+```text
+https://cdn.jsdelivr.net/gh/<usuario>/GameWallAmiiboCDN@<tag>/images/amiibo/high-res/icon_04380001-03000502.png
 ```
 
 ## Publicar una versión
