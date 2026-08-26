@@ -10,6 +10,13 @@ Repositorio público de datos de amiibo de GameWall: catálogo, compatibilidad e
 - Mantén el flujo habitual `Backlog → Ready → In progress → Done`: pasa a `In progress` al asignar/crear rama y a `Done` solo tras validar, subir la rama, fusionarla directamente con `--no-ff`, subir `main` y cerrar el issue. Usa `In review` únicamente cuando exista una PR o revisión explícita.
 - Si el trabajo activo se bloquea temporalmente, conserva `In progress` y añade `blocked`; vuelve a `Backlog` solo si se detiene a la espera de una dependencia externa.
 - Añade al Project cualquier issue o PR nuevo de este repo.
+- El auto-add del Project solo cubre `jfmargar/gamewall`: este repo no está enlazado, así que nada entra solo. Tras `gh issue create`, añádelo siempre a mano:
+
+  ```bash
+  gh project item-add 3 --owner jfmargar --url <url-del-issue>
+  ```
+
+  El workflow *Item added to project* lo deja en `Backlog`, así que solo toca `Status` si el triaje dice otra cosa. Es una convención nuestra, no algo que GitHub imponga: los issues que abra el usuario a mano se quedan fuera del Project hasta que alguien los añada, así que avisa si ves alguno suelto.
 
 ## Git
 
