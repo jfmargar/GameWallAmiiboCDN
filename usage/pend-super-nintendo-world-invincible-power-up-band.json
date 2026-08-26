@@ -1,0 +1,130 @@
+{
+  "gamesSwitch2": [
+    {
+      "gameName": "Mario Tennis Fever",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Use a tennis ball design based on the character (cosmetic only)",
+          "write": false
+        }
+      ]
+    }
+  ],
+  "gamesSwitch": [
+    {
+      "gameName": "Super Mario Galaxy",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Receive a helpful item depending on the character",
+          "write": false
+        }
+      ]
+    },
+    {
+      "gameName": "Super Mario Galaxy 2",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Receive a helpful item depending on the character",
+          "write": false
+        }
+      ]
+    },
+    {
+      "gameName": "Super Mario Bros. Wonder",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Change to character-themed decoration in Bellabel Park hub (Switch 2 Edition only)",
+          "write": false
+        }
+      ]
+    },
+    {
+      "gameName": "Miitopia",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Unlock a character-based costume",
+          "write": false
+        }
+      ]
+    },
+    {
+      "gameName": "Super Mario 3D World + Bowser's Fury",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Receive a particular power-up depending on the character",
+          "write": false
+        }
+      ]
+    },
+    {
+      "gameName": "Yoshi's Crafted World",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Unlock a character-based costume",
+          "write": false
+        }
+      ]
+    },
+    {
+      "gameName": "Super Smash Bros. Ultimate",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Battle and train up a computer-controlled Figure Player of the character",
+          "write": true
+        }
+      ]
+    },
+    {
+      "gameName": "Super Mario Party",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Unlock the character's shiny sticker",
+          "write": false
+        }
+      ]
+    },
+    {
+      "gameName": "Super Mario Odyssey",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Receive a character-based costume",
+          "write": false
+        },
+        {
+          "Usage": "Gain temporary invincibility",
+          "write": false
+        }
+      ]
+    },
+    {
+      "gameName": "Mario + Rabbids: Kingdom Battle",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Unlock an amiibo-exclusive weapon for the character and their Rabbid counterpart",
+          "write": false
+        }
+      ]
+    },
+    {
+      "gameName": "Mario Kart 8 Deluxe",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Unlock a character-themed Mii racing suit",
+          "write": false
+        }
+      ]
+    }
+  ]
+}

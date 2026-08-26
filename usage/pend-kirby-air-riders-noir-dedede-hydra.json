@@ -1,0 +1,14 @@
+{
+  "gamesSwitch2": [
+    {
+      "gameName": "Kirby Air Riders",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Race and train up a computer-controlled Figure Player of the character / Change main menu cursor doll to match amiibo",
+          "write": true
+        }
+      ]
+    }
+  ]
+}
