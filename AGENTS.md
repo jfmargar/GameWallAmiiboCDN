@@ -27,5 +27,6 @@ Repositorio público de datos de amiibo de GameWall: catálogo, compatibilidad e
 ## Publicación
 
 - Los tags publicados son inmutables; una corrección requiere un tag nuevo.
-- No elimines datos o imágenes ya publicados: pueden seguir referenciados por colecciones existentes.
+- No elimines de los tags nuevos datos o imágenes que la app pida: pueden seguir referenciados por colecciones existentes. Los tags ya publicados no se tocan nunca, así que una versión antigua sigue encontrando lo suyo mientras Remote Config no la mueva de tag.
+- Retirar algo solo es aceptable cuando ninguna versión viva lo necesita, o cuando las que lo piden tienen un fallback. Fue el caso de `images/amiibo/high-res/` (jfmargar/GameWallAmiiboSync#2).
 - Coordina cualquier cambio de formato o tag con `GameWallAmiiboSync`, la app y la web.
