@@ -1,0 +1,24 @@
+{
+  "gamesSwitch": [
+    {
+      "gameName": "Conga Master Party!",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Unlock a special costume",
+          "write": false
+        }
+      ]
+    },
+    {
+      "gameName": "Mario Kart 8 Deluxe",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Unlock a Metroid-themed Mii racing suit",
+          "write": false
+        }
+      ]
+    }
+  ]
+}

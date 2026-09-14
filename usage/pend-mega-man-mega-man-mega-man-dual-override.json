@@ -1,0 +1,148 @@
+{
+  "gamesSwitch": [
+    {
+      "gameName": "Super Smash Bros. Ultimate",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Battle and train up a computer-controlled Figure Player of the character",
+          "write": true
+        }
+      ]
+    },
+    {
+      "gameName": "Mega Man 11",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Receive E Tanks and other useful in-game items",
+          "write": false
+        }
+      ]
+    },
+    {
+      "gameName": "Mega Man Legacy Collection",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Unlock 11 exclusive challenge stages designed by fans",
+          "write": false
+        }
+      ]
+    },
+    {
+      "gameName": "Mega Man Legacy Collection 2",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Unlock new platforming challenges",
+          "write": false
+        }
+      ]
+    },
+    {
+      "gameName": "Resident Evil Revelations",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Receive a lot of BP / Receive better supplies (compared to other amiibo)",
+          "write": false
+        }
+      ]
+    },
+    {
+      "gameName": "Resident Evil Revelations 2",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Receive a lot of BP / Receive better supplies (compared to other amiibo)",
+          "write": false
+        }
+      ]
+    },
+    {
+      "gameName": "Mario Kart 8 Deluxe",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Unlock a character-themed Mii racing suit",
+          "write": false
+        }
+      ]
+    }
+  ],
+  "games3DS": [
+    {
+      "gameName": "Poochy & Yoshi's Woolly World",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Unlock a character-based Yoshi yarn pattern",
+          "write": false
+        }
+      ]
+    },
+    {
+      "gameName": "Mega Man Legacy Collection",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Unlock 11 exclusive challenge stages designed by fans",
+          "write": false
+        }
+      ]
+    },
+    {
+      "gameName": "Super Smash Bros. for Nintendo 3DS",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Battle and train up a computer-controlled Figure Player of the character",
+          "write": true
+        }
+      ]
+    }
+  ],
+  "gamesWiiU": [
+    {
+      "gameName": "Super Mario Maker",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Unlock a character-based Mystery Mushroom costume",
+          "write": false
+        }
+      ]
+    },
+    {
+      "gameName": "Yoshi's Woolly World",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Unlock a character-based Yoshi yarn pattern",
+          "write": false
+        }
+      ]
+    },
+    {
+      "gameName": "Super Smash Bros. for Wii U",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Battle and train up a computer-controlled Figure Player of the character",
+          "write": true
+        }
+      ]
+    },
+    {
+      "gameName": "Mario Kart 8",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Unlock a character-themed Mii racing suit",
+          "write": false
+        }
+      ]
+    }
+  ]
+}
