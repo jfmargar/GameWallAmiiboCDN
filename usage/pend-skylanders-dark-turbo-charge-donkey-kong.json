@@ -1,0 +1,284 @@
+{
+  "gamesSwitch2": [
+    {
+      "gameName": "Super Mario Bros. Wonder – Nintendo Switch 2 Edition + Meetup in Bellabel Park",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Change to character-themed decoration in Bellabel Park hub",
+          "write": false
+        }
+      ]
+    },
+    {
+      "gameName": "Mario Tennis Fever",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Use a tennis ball design based on the character (cosmetic only)",
+          "write": false
+        }
+      ]
+    },
+    {
+      "gameName": "Donkey Kong Bananza",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Spawn explosive golden KONG tiles",
+          "write": false
+        }
+      ]
+    }
+  ],
+  "gamesSwitch": [
+    {
+      "gameName": "Super Mario Galaxy",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Receive a helpful item depending on the character",
+          "write": false
+        }
+      ]
+    },
+    {
+      "gameName": "Super Mario Galaxy 2",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Receive a helpful item depending on the character",
+          "write": false
+        }
+      ]
+    },
+    {
+      "gameName": "Miitopia",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Unlock a character-based costume",
+          "write": false
+        }
+      ]
+    },
+    {
+      "gameName": "Super Mario 3D World + Bowser's Fury",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Receive a particular power-up depending on the character",
+          "write": false
+        }
+      ]
+    },
+    {
+      "gameName": "Super Smash Bros. Ultimate",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Battle and train up a computer-controlled Figure Player of the character",
+          "write": true
+        }
+      ]
+    },
+    {
+      "gameName": "Super Mario Party",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Unlock the character's shiny sticker",
+          "write": false
+        }
+      ]
+    },
+    {
+      "gameName": "Mario Kart 8 Deluxe",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Unlock a character-themed Mii racing suit",
+          "write": false
+        }
+      ]
+    }
+  ],
+  "games3DS": [
+    {
+      "gameName": "WarioWare Gold",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Receive a sketch of the character from Wario which can be exchanged for in-game coins",
+          "write": false
+        }
+      ]
+    },
+    {
+      "gameName": "Mario Party: The Top 100",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Minigame Island: If you land on an amiibo space, use to receive coins / Use to revive your character once",
+          "write": false
+        }
+      ]
+    },
+    {
+      "gameName": "Poochy & Yoshi's Woolly World",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Unlock a character-based Yoshi yarn pattern",
+          "write": false
+        }
+      ]
+    },
+    {
+      "gameName": "Miitopia",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Unlock a character-based costume",
+          "write": false
+        }
+      ]
+    },
+    {
+      "gameName": "Mario Party: Star Rush",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Play as or receive bonus from this character, depending on the mode",
+          "write": false
+        }
+      ]
+    },
+    {
+      "gameName": "Kirby: Planet Robobot",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Give Kirby a Copy ability based on the character's abilities and a health item",
+          "write": false
+        }
+      ]
+    },
+    {
+      "gameName": "Mini Mario & Friends amiibo Challenge",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Play stages as a Mini version of this character, with a unique special ability, and unlock character-specific stages",
+          "write": false
+        }
+      ]
+    },
+    {
+      "gameName": "Chibi-Robo! Zip Lash",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Unlock figure in an amiibo-exclusive pose of the character (requires Chibi-Robo amiibo)",
+          "write": false
+        }
+      ]
+    },
+    {
+      "gameName": "Ace Combat Assault Horizon Legacy +",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Unlock a character-themed aircraft early, plus a bonus skin and tuning part",
+          "write": false
+        }
+      ]
+    },
+    {
+      "gameName": "Super Smash Bros. for Nintendo 3DS",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Battle and train up a computer-controlled Figure Player of the character",
+          "write": true
+        }
+      ]
+    }
+  ],
+  "gamesWiiU": [
+    {
+      "gameName": "Mini Mario & Friends amiibo Challenge",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Play stages as a Mini version of this character, with a unique special ability, and unlock character-specific stages",
+          "write": false
+        }
+      ]
+    },
+    {
+      "gameName": "Mario Tennis: Ultra Smash",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Play alongside and train up a computer-controlled character",
+          "write": true
+        }
+      ]
+    },
+    {
+      "gameName": "Super Mario Maker",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Unlock a character-based Mystery Mushroom costume",
+          "write": false
+        }
+      ]
+    },
+    {
+      "gameName": "Yoshi's Woolly World",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Unlock a character-based Yoshi yarn pattern",
+          "write": false
+        }
+      ]
+    },
+    {
+      "gameName": "Mario Party 10",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Use as game piece in amiibo Party",
+          "write": true
+        },
+        {
+          "Usage": "Customize game board in amiibo Party",
+          "write": false
+        }
+      ]
+    },
+    {
+      "gameName": "Super Smash Bros. for Wii U",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Battle and train up a computer-controlled Figure Player of the character",
+          "write": true
+        }
+      ]
+    },
+    {
+      "gameName": "Mario Kart 8",
+      "gameID": [],
+      "amiiboUsage": [
+        {
+          "Usage": "Unlock a character-themed Mii racing suit",
+          "write": false
+        }
+      ]
+    }
+  ]
+}
